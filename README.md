@@ -1,10 +1,10 @@
-# EinsteinsRiddle
- a simple console app enforcing einstein's zebra riddle
+# EinsteinsRiddle (Zebra Puzzle)
+ A simple console app enforcing einstein's zebra riddle
 
-# What is Einstein's riddle?
+## What is Einstein's riddle?
 The riddle is a logic puzzle supposedly written by Einstein.
 
-# What is the riddle itself?
+## What is the riddle itself?
 The riddle describes a five person street in which each neighbor has 5 unique properties:
 
 - House Color
