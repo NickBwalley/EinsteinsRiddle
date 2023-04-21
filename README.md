@@ -76,3 +76,5 @@ With a set of 15 hints, the goal is to find out who has the pet fish.
 13. the german smokes prince 
 14. the norwegian lives next to the blue house
 15. the man who smokes blend has a neighbor who drinks water
+
+## Learn more with a Quick Demo: https://www.brainzilla.com/logic/zebra/einsteins-riddle/ 
