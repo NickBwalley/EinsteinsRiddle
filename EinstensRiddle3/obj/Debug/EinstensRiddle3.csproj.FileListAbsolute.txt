@@ -1,0 +1,8 @@
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\bin\Debug\EinstensRiddle3.exe.config
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\bin\Debug\EinstensRiddle3.exe
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\bin\Debug\EinstensRiddle3.pdb
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\obj\Debug\EinstensRiddle3.csproj.AssemblyReference.cache
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\obj\Debug\EinstensRiddle3.csproj.SuggestedBindingRedirects.cache
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\obj\Debug\EinstensRiddle3.csproj.CoreCompileInputs.cache
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\obj\Debug\EinstensRiddle3.exe
+C:\Users\NICK BWALLEY\source\repos\EinstensRiddle3\EinstensRiddle3\obj\Debug\EinstensRiddle3.pdb
